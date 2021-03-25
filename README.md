@@ -26,9 +26,7 @@ This is my paragraph text. This line is too long
 * first
 * second
 * third
- 
- 
-To create a new directory from command prompt, open command prompt and run the following command
+
  
 ```
 mkdir akademize
